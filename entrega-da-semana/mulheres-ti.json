@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nome": "ADA LOVELACE",
+    "descricao": "Diva da programação, já descrevia as operações lógicas de uma máquina mais de um século antes de existir o computador como entendemos hoje.",
+    "leiaMais": "https://www.programaria.org/como-ada-lovelace-filha-de-lord-byron-se-tornou-primeira-programadora-mundo/"
+  },
+  {
+    "id": 2,
+    "nome": "EDITH CLARKE",
+    "descricao": "Nascida numa comunidade rural de Maryland (EUA), Edith Clarke formou-se em matemática e astronomia em 1908 e depois estudou Engenharia Civil.",
+    "leiaMais": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+  },
+  {
+    "id": 3,
+    "nome": "GRACE HOPPER",
+    "descricao": "Foi uma cientista da computação norte americana e Contra-almirante da Marinha dos Estados Unidos. ",
+    "leiaMais": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+  },
+  {
+    "id": 4,
+    "nome": "DOROTHY JOHNSON VAUGHAN",
+    "descricao": "Nascida no estado do Missouri, Dorothy Vaughan formou-se em Matemática e ingressou na NACA, agência que viria a se tornar a NASA, em 1943.",
+    "leiaMais": "https://reprograma.github.io/On3-projeto-final/maravilhosas/isaura-camargo/dorothy-vaughan.html"
+  },
+  {
+    "id": 5,
+    "nome": "MARY KENNETH KELLER",
+    "descricao": "Natural de Cleveland, Ohio, Mary Keller foi a primeira mulher a ter um doutorado em ciência da computação nos Estados Unidos, em 1965.",
+    "leiaMais": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+  },
+  {
+    "id": 6,
+    "nome": "HEDY LAMARR",
+    "descricao": "Foi uma atriz e inventora austríaca radicada nos Estados Unidos.",
+    "leiaMais": "https://reprograma.github.io/On3-projeto-final/maravilhosas/andrea-soares/Hedy-Lamarr.html"
+  },
+  {
+    "id": 7,
+    "nome": "JOAN CLARKE",
+    "descricao": "Foi uma criptoanalista e numismata inglesa, mais conhecida pelo seu trabalho como decodificadora de mensagens nazistas durante a II Guerra Mundial que possibilitou salvar inúmeras vidas.",
+    "leiaMais": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+  },
+  {
+    "id": 8,
+    "nome": "KATHERINE COLEMAN GOBLE JOHNSON",
+    "descricao": "Cientista formada em física e matemática, Katherine Johnson fez história na corrida espacial americana: calculou a trajetória para o Projeto Mercúrio (primeiro projeto tripulado da NASA) e para o voo da Apollo 11 (que levou o homem à Lua). ",
+    "leiaMais": "https://reprograma.github.io/On3-projeto-final/maravilhosas/jennyffer-novaes/katherine-johnson.html"
+  },
+  {
+    "id": 9,
+    "nome": "MARY WINSTON JACKSON",
+    "descricao": "Mary Winston Jackson nasceu nos EUA e formou-se no Hampton Institute em 1942, onde estudou matemática e física.",
+    "leiaMais": "https://reprograma.github.io/On3-projeto-final/maravilhosas/ana-lima/mary-jackson.html"
+  },
+  {
+    "id": 10,
+    "nome": "KAREN SPÄRCK",
+    "descricao": "Karen Spärck Jones criou o conceito de 'Frequência Inversa do Documento' (IDF na sigla em inglês).",
+    "leiaMais": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+  }
+]
